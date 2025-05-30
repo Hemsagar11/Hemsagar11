@@ -24,17 +24,6 @@ Whether it's building a custom SIEM from scratch or automating patch intelligenc
 
 ---
 
-## 🏗️ What I’m Building
-
-### 🔐 Final Year Project: **Custom SIEM Solution**
-- Correlation Engine developed by me (solo module)
-- Uses Apache Spark + Kafka + Filebeat
-- Real-time log ingestion & threat detection
-- Interactive dashboard for SOC triage  
-📂 [Check out the GitHub Repo](https://github.com/yourusername/sentinelx)
-
----
-
 ## 🎓 Learning Journey So Far
 
 - 🧠 **PwC Launchpad 2024 Graduate**  
@@ -42,8 +31,6 @@ Whether it's building a custom SIEM from scratch or automating patch intelligenc
 
 - 👨‍💻 **Intern @ PwC Acceleration Center**  
    - Working on Vulnerability Management, Patch Automation, and CVE Prioritization  
-   - Built a Python script to automate MSRC patch data analysis  
-   - Conducted agent health analysis and remediation strategy
 
 ---
 
@@ -59,18 +46,16 @@ Whether it's building a custom SIEM from scratch or automating patch intelligenc
 
 ## 📚 Projects & Highlights
 
-- 📌 **SIEM Tool** – Real-time correlation engine with Spark + Kafka + PyScript  
-- 🛠️ **2FA Authenticator App** – A TOTP-based open-source security app  
-- 📈 **Patch Intelligence Script** – Automated CVE mapping using Python and MSRC  
-- 🔎 **Vulnerability Tables** – Concise, tabular format reports with CVSS scoring and fixes  
+- 📌 **SIEM Tool** – Real-time correlation engine with Spark + Kafka + PyScript   
+- 📈 **Patch Intelligence Script** – Automated CVE mapping using Python and MSRC   
 - 🧠 **SOC Analyst Playbooks** – Custom workflows for incident triage and detection use cases
 
 ---
 
 ## 🌐 Connect With Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/hemsagar/)
-- 📧 hemsagar.email@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hem-sagar/)
+- 📧 hem.sagar.contact@gmail.com
 - 🧠 Always open to collaborating on cybersecurity tools, blue team ideas, and open source!
 
 ---
